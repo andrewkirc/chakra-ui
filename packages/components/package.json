@@ -1,5 +1,5 @@
 {
-  "name": "@chakra-ui/react",
+  "name": "@andrewkirc/react-chakra-ui",
   "version": "2.8.2",
   "description": "Responsive and accessible React UI components built with React and Emotion",
   "main": "dist/cjs/index.cjs",
